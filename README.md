@@ -1,2 +1,2 @@
 # NumEx
-A Number Guessing Game 
+A Simple Number Guessing Game 
